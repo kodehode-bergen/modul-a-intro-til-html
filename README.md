@@ -1,4 +1,4 @@
-# 📄 HTML Intro – 17.03.25
+# 📄 Modul A- Intro til HTML
 
 Dette prosjektet er laget som en innføring i **HTML** og fokuserer på semantiske elementer, strukturering av nettsider og bruk av ulike tekstformateringer. Koden inneholder tydelige kommentarer og eksempler, og passer godt til nybegynnere eller undervisningsopplegg 👩‍🏫👨‍💻
 
